@@ -1,0 +1,3 @@
+En este caso el PWM tiene duty cycle constante, pero varía su frecuencia a lo largo del tiempo.
+
+Como el duty cycle no cambia, al conectar el LED no se observa variaciones en el brillo.

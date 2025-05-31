@@ -1,0 +1,4 @@
+Se observa una señal de frecuencia 1 kHz, que varía su duty cycle (es decir, el porcentaje de tiempo que se mantiene el pulso encendido respecto del período de la señal).
+
+Al conectar el LED, se observa que el mismo varía su brillo con el tiempo, a medida que varía el duty cycle.
+
